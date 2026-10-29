@@ -129,7 +129,7 @@ The `Status` column is a progress marker based only on whether a primary categor
 
 The scientific pipeline is supplied with its dependencies and tests. Manuscript editing, historical corpus preparation and annotation replay, retrieval-provenance generation, submission figure assembly and package-building scripts remain local preparation tools. The assembled submission figures are included as outputs; the public pipeline regenerates their individual analysis panels.
 
-The code was prepared from repository commit `54c42a7cb8e8c6607bf2bfe7e955a1a22b5fcbba` and updated for this public release. No private `config.json` is included. Version 1.0.0 of this release is archived on [Zenodo](https://doi.org/10.5281/zenodo.23765512).
+This release corresponds to GitHub tag `v1.0.0` (commit `58632628379e9b62d3c59598a7fa8c7d5bdfee2b`). No private `config.json` is included. Version 1.0.0 of this release is archived on [Zenodo](https://doi.org/10.5281/zenodo.23765512).
 
 ## License
 
