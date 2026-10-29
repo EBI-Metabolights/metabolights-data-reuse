@@ -21,8 +21,7 @@ keywords:
   - metabolomics
   - data reuse
 
-# Add the new repository URL and archive DOI after they have been created.
-
 repository-code: "https://github.com/EBI-Metabolights/metabolights-data-reuse"
 version: "1.0.0"
 date-released: "2026-10-29"
+doi: "10.5281/zenodo.23765512"
