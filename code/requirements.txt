@@ -1,0 +1,9 @@
+# Packages used by literature collection, manual-review workbooks, analysis and plotting.
+pandas>=1.5
+numpy
+xlsxwriter>=3.0
+openpyxl>=3.1
+requests>=2.31
+rich>=13.0
+feedparser>=6.0
+matplotlib>=3.7

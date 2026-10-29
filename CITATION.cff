@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code or the reviewed records, please cite this release.
+type: software
+title: "Revealing the Hidden Landscape of Public Metabolomics Data Reuse in MetaboLights"
+authors:
+  - family-names: "Karaman"
+    given-names: "Ibrahim"
+  - family-names: "Payne"
+    given-names: "Thomas"
+  - family-names: "Vizcaíno"
+    given-names: "Juan Antonio"
+license: Apache-2.0
+abstract: >-
+  Code, manually reviewed publication-dataset records, analysis results and
+  figures supporting the study of public MetaboLights data reuse. The workflow
+  collects candidate publications, supports manual screening, and calculates
+  publication and dataset reuse summaries.
+keywords:
+  - MetaboLights
+  - metabolomics
+  - data reuse
+
+# Add the new repository URL and archive DOI after they have been created.
+# Add version and date-released when the public release is issued.
