@@ -129,7 +129,7 @@ The `Status` column is a progress marker based only on whether a primary categor
 
 The scientific pipeline is supplied with its dependencies and tests. Manuscript editing, historical corpus preparation and annotation replay, retrieval-provenance generation, submission figure assembly and package-building scripts remain local preparation tools. The assembled submission figures are included as outputs; the public pipeline regenerates their individual analysis panels.
 
-The code was prepared from repository commit `54c42a7cb8e8c6607bf2bfe7e955a1a22b5fcbba` and updated for this public release. No private `config.json` is included. Archive this exact release directory in a repository that provides a persistent DOI, then cite the public repository and DOI in the manuscript and response letter.
+The code was prepared from repository commit `54c42a7cb8e8c6607bf2bfe7e955a1a22b5fcbba` and updated for this public release. No private `config.json` is included. Version 1.0.0 of this release is archived on [Zenodo](https://doi.org/10.5281/zenodo.23765512).
 
 ## License
 
@@ -137,4 +137,4 @@ The project code and original contributions are available under the [Apache Lice
 
 ## Citation
 
-Use the metadata in [CITATION.cff](CITATION.cff) when citing the code and reviewed records. It contains the study title and the authors Ibrahim Karaman, Thomas Payne and Juan Antonio Vizcaíno. The new repository URL, archive DOI, release version and release date can be added when they are confirmed. No unpublished article DOI or uncreated repository URL is supplied.
+Version 1.0.0 of the code, reviewed records, analysis results and figures is archived on [Zenodo](https://doi.org/10.5281/zenodo.23765512). The code repository is [EBI-Metabolights/metabolights-data-reuse](https://github.com/EBI-Metabolights/metabolights-data-reuse). Citation metadata are provided in [CITATION.cff](CITATION.cff).
